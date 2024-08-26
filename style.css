@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+.headings{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.navi,.body-container1,.body-container3,.body-container4{
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    padding-bottom: 10px;
+}
+.navi,.headings,.get-fonts,.body-container4.body-container2,.body-container4{
+    background-color: bisque;
+}
+
+.get-fonts,.navi,.body-container1,.container3,.headings,.body-container4{
+    font-size:  25px;
+}
+
+.get-fonts,.body-container3{
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 20px;
+}
